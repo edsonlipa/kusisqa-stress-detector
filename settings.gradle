@@ -1,0 +1,2 @@
+rootProject.name = "service_example_edson"
+include ':app'
